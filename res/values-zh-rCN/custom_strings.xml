@@ -246,6 +246,7 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">媒体播放控制</string>
     <string name="volume_button_music_control_summary">屏幕关闭时，长按音量键将跳过音乐曲目</string>
+
     <!-- Hide developer status -->
     <string name="hide_developer_status_title">Hide developer status</string>
     <string name="hide_developer_status_summary">Prevent apps from checking adb and developer mode status</string>
@@ -263,4 +264,8 @@
     <string name="display_rotation_90_title">90°</string>
     <string name="display_rotation_180_title">180°</string>
     <string name="display_rotation_270_title">270°</string>
+
+    <!-- QS footer data usage -->
+    <string name="qs_show_data_usage_title">数据使用情况</string>
+    <string name="qs_show_data_usage_summary">在 QS 页脚中显示移动网络/WiFi 数据使用情况</string>
 </resources>
